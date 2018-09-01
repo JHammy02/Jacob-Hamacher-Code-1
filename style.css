@@ -1,0 +1,23 @@
+.main{
+	text-align: center;
+	font-family: impact;
+	background-image: url("https://www.axner.com/images/products/display/FEF_600_Cobalt_Blue.jpg");
+	color: red;
+	
+}
+#nav{
+	background-color: red;
+	text-align: top;
+	font-family: impact;
+	width: 99.59%; height: 150px;
+    border-style: solid;
+    border-color: red;
+	font-size: 25px
+}
+h1{
+	font-size: 50px;
+}
+p{
+	font-size: 30px;
+	text-indent: 2.0em;
+}
